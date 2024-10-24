@@ -10,3 +10,8 @@
     # flask --app hello run
 
 # Paso 4: Probar algunos de los endpoints ya creados, los cuales puedes conseguir yendo directamente al archivo hello.py 
+
+<!-- nota informativa -->
+
+**flask-SQLAlchemy** --> es la extencion que facilita el uso de SQLAlchemy con flask.
+**psycopg2** --> el adaptador de postgres para python.
